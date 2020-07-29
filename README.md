@@ -1,6 +1,6 @@
-# Seala
+# Lark
 
-**```Best for ```**
+**```Lark is Best for ```**
 
 - Buyers, 
 - Sellers, 
