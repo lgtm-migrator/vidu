@@ -23,10 +23,74 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/fontawesome-all.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/revolution/css/settings.css",
+              "src/assets/revolution/css/layers.css",
+              "src/assets/revolution/css/navigation.css",
+              "src/assets/css/search.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/lightcase.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/menu.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/styles.css"
+
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/tether.min.js",
+              "src/assets/js/moment.js",
+              "src/assets/js/transition.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/mmenu.min.js",
+              "src/assets/js/mmenu.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/slick3.js",
+              "src/assets/js/fitvids.js",
+              "src/assets/js/jquery.waypoints.min.js",
+              "src/assets/js/typed.min.js",
+              "src/assets/js/jquery.counterup.min.js",
+              "src/assets/js/imagesloaded.pkgd.min.js",
+              "src/assets/js/isotope.pkgd.min.js",
+              "src/assets/js/smooth-scroll.min.js",
+              "src/assets/js/lightcase.js",
+              "src/assets/js/owl.carousel.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/ajaxchimp.min.js",
+              "src/assets/js/newsletter.js",
+              "src/assets/js/jquery.form.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/search.js",
+              "src/assets/js/searched.js",
+              "src/assets/js/forms-2.js",
+              "src/assets/js/color-switcher.js",
+              "src/assets/js/jquery.validate.min.js",
+
+
+              "src/assets/revolution/js/jquery.themepunch.tools.min.js",
+              "src/assets/revolution/js/jquery.themepunch.revolution.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.actions.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.carousel.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.kenburn.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.migration.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.navigation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.parallax.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.video.min.js",
+
+
+              "src/assets/js/script.js"
+
+
+
+            ]
           },
           "configurations": {
             "production": {
@@ -80,9 +144,70 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/fontawesome-all.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/revolution/css/settings.css",
+              "src/assets/revolution/css/layers.css",
+              "src/assets/revolution/css/navigation.css",
+              "src/assets/css/search.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/lightcase.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/menu.css",
+              "src/assets/css/slick.css",
+              "src/assets/css/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/tether.min.js",
+              "src/assets/js/moment.js",
+              "src/assets/js/transition.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/mmenu.min.js",
+              "src/assets/js/mmenu.js",
+              "src/assets/js/slick.min.js",
+              "src/assets/js/slick3.js",
+              "src/assets/js/fitvids.js",
+              "src/assets/js/jquery.waypoints.min.js",
+              "src/assets/js/typed.min.js",
+              "src/assets/js/jquery.counterup.min.js",
+              "src/assets/js/imagesloaded.pkgd.min.js",
+              "src/assets/js/isotope.pkgd.min.js",
+              "src/assets/js/smooth-scroll.min.js",
+              "src/assets/js/lightcase.js",
+              "src/assets/js/owl.carousel.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/ajaxchimp.min.js",
+              "src/assets/js/newsletter.js",
+              "src/assets/js/jquery.form.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/search.js",
+              "src/assets/js/searched.js",
+              "src/assets/js/forms-2.js",
+              "src/assets/js/color-switcher.js",
+              "src/assets/js/jquery.validate.min.js",
+
+
+              "src/assets/revolution/js/jquery.themepunch.tools.min.js",
+              "src/assets/revolution/js/jquery.themepunch.revolution.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.actions.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.carousel.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.kenburn.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.migration.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.navigation.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.parallax.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js",
+              "src/assets/revolution/js/extensions/revolution.extension.video.min.js",
+
+
+              "src/assets/js/script.js"
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
