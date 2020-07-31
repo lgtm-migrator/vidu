@@ -1,5 +1,7 @@
 # Lark
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f9eb02efc2d74546a97a32f5cc279318)](https://app.codacy.com/manual/Mfuon2/vidu?utm_source=github.com&utm_medium=referral&utm_content=Mfuon2/vidu&utm_campaign=Badge_Grade_Dashboard)
+
 **```Lark is Best for ```**
 
 - Buyers, 
