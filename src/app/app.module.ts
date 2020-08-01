@@ -8,13 +8,10 @@ import { FooterComponent } from './components/layout/footer/footer.component';
 import { HomeComponent } from './components/site/home/home.component';
 import {RouterModule, Routes} from '@angular/router';
 import { LoginComponent } from './components/site/login/login.component';
+import { PropertiesComponent } from './components/site/properties/properties.component';
+import { RentalsComponent } from './components/site/rentals/rentals.component';
 
-const appRoutes: Routes = [
-  {path: 'home', component: HomeComponent},
-  {path: 'login', component: LoginComponent},
-  {path: 'login', redirectTo: '/login', pathMatch: 'full'},
-  {path: '', redirectTo: '/home', pathMatch: 'full'},
-];
+
 
 @NgModule({
   declarations: [
@@ -23,11 +20,12 @@ const appRoutes: Routes = [
     FooterComponent,
     HomeComponent,
     LoginComponent,
+    PropertiesComponent,
+    RentalsComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    RouterModule.forRoot(appRoutes)
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

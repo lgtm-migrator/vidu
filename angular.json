@@ -39,7 +39,6 @@
               "src/assets/css/menu.css",
               "src/assets/css/slick.css",
               "src/assets/css/styles.css"
-
             ],
             "scripts": [
               "src/assets/js/jquery.min.js",
@@ -71,8 +70,6 @@
               "src/assets/js/forms-2.js",
               "src/assets/js/color-switcher.js",
               "src/assets/js/jquery.validate.min.js",
-
-
               "src/assets/revolution/js/jquery.themepunch.tools.min.js",
               "src/assets/revolution/js/jquery.themepunch.revolution.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.actions.min.js",
@@ -84,12 +81,7 @@
               "src/assets/revolution/js/extensions/revolution.extension.parallax.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.video.min.js",
-
-
               "src/assets/js/script.js"
-
-
-
             ]
           },
           "configurations": {
@@ -191,8 +183,6 @@
               "src/assets/js/forms-2.js",
               "src/assets/js/color-switcher.js",
               "src/assets/js/jquery.validate.min.js",
-
-
               "src/assets/revolution/js/jquery.themepunch.tools.min.js",
               "src/assets/revolution/js/jquery.themepunch.revolution.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.actions.min.js",
@@ -204,8 +194,6 @@
               "src/assets/revolution/js/extensions/revolution.extension.parallax.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js",
               "src/assets/revolution/js/extensions/revolution.extension.video.min.js",
-
-
               "src/assets/js/script.js"
             ],
             "assets": [
@@ -257,5 +245,8 @@
       }
     }
   },
-  "defaultProject": "real"
+  "defaultProject": "real",
+  "cli": {
+    "analytics": "345fab46-7c2e-4eae-b51c-83611a50c0e4"
+  }
 }
