@@ -7,10 +7,11 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: my-project-{{ .Branch }}-{{ checksum "package-lock.json" }}
-      - run: npm install
+          key: my-project-{{ .Branch }}-{{ checksum "yarn.lock" }}
+      - run: yarn install
       - save_cache:
-          key: my-project-{{ .Branch }}-{{ checksum "package-lock.json" }}
+          key: my-project-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
             - "node_modules"
-      - run: npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
+            #SKIP TEST SCRIPTS
+      #- run: npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js
