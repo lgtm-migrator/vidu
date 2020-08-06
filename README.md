@@ -1,7 +1,8 @@
 # Lark
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f9eb02efc2d74546a97a32f5cc279318)](https://app.codacy.com/manual/Mfuon2/vidu?utm_source=github.com&utm_medium=referral&utm_content=Mfuon2/vidu&utm_campaign=Badge_Grade_Dashboard)
-CI[![CircleCI](https://circleci.com/gh/Mfuon2/vidu.svg?style=svg)](https://circleci.com/gh/Mfuon2/vidu)
+[![CodeFactor](https://www.codefactor.io/repository/github/mfuon2/vidu/badge)](https://www.codefactor.io/repository/github/mfuon2/vidu)
+[![CircleCI](https://circleci.com/gh/Mfuon2/vidu.svg?style=svg)](https://circleci.com/gh/Mfuon2/vidu)
 
 **```Lark is Best for ```**
 
